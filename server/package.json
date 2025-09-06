@@ -23,7 +23,7 @@
     "@types/node": "^20.14.9",
     "cypress": "^13.13.0",
     "dotenv-cli": "^7.4.2",
-    "prisma": "^5.19.1",
+    "prisma": "^6.15.0",
     "tsup": "^8.1.0",
     "tsx": "^4.16.2",
     "typescript": "^5.5.3"
