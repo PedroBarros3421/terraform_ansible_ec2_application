@@ -73,7 +73,7 @@ jobs:
       # Ansible validation (só se ansible mudou)
       - name: Setup Python
         if: steps.changed-files.outputs.ansible_any_changed == 'true'
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
 
