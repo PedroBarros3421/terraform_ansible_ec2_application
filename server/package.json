@@ -21,7 +21,7 @@
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",
     "@types/node": "^20.14.9",
-    "cypress": "^13.13.0",
+    "cypress": "^15.5.0",
     "dotenv-cli": "^7.4.2",
     "prisma": "^5.19.1",
     "tsup": "^8.1.0",
